@@ -35,6 +35,3 @@ After the installation is complete, verify that Inkscape has been successfully i
 inkscape --version
 ```
 If the version information is displayed, Inkscape is ready.
-
-
-Translated with DeepL.com (free version)
