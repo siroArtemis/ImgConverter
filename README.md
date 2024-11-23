@@ -18,7 +18,7 @@ The tool we created (`ConvertImage.cmd`) has the following features.
    - Drag and drop the image file or folder you want to convert into `ConvertImage.cmd`.
      Run the program with the `570_markers.svg` file as an example.
 
-##Setup procedure
+## Setup procedure
 
 ## Install Inkscape
 To use Inkscape, you must first install the software. <br>The procedure is described below.
